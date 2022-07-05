@@ -1,1 +1,2 @@
 Ese es el archivo 1 para explicar GIT y GitHub
+Modificamos este archivo par corregir un error que existia ya que o habiamos saludado.
